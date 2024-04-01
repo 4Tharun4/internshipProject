@@ -1,0 +1,18 @@
+.main{
+   
+    height: 30px;
+    margin-bottom: 40px;
+}
+.main-text{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding:20px;
+}
